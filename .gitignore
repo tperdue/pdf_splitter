@@ -1,0 +1,10 @@
+.venv/
+.env
+.uv-cache/
+.test-tmp/
+.app-tmp/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+input/
+output/
